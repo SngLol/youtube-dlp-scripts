@@ -23,3 +23,10 @@ If it does not work, use "check-video-qualities.bat" and copy index number of de
 
 check-video-qualities.bat
 Will take a youtube video link and output all available quality options along with their index number.
+
+download-vr.bat
+Will take a youtube VR video link and dowload in VR viewable format into "VR Downloads" subfolder. If errors, create subfolder manually.
+
+update.bat
+Will update your "youtube-dlp.exe".
+Run this script if there are errors in any/all other scripts during normal use.
